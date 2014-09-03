@@ -3,6 +3,8 @@ Node.js HTTP Listener
 
 A simple http server that listens for POST events on port 9000 and prints the contents to the console. Don't use this in production. It is not production grade or useful for anything except easily inspecting web hooks.
 
+This was largely derived from a gist by [Kyle Tolle](https://gist.github.com/kyletolle/6530914).
+
 ## Installation
 
 You can run this about anywhere you have node installed and a publicly accessible IP address. If you use the default port, your machine will need to make that port available through its firewall.
