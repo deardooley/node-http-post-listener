@@ -32,5 +32,5 @@ function handler (req, res) {
   res.end();
 }
 
-console.log("Listening to port 8080");
+console.log("Listening to port 9000");
 console.log("Returning status code " + statusCode.toString());
